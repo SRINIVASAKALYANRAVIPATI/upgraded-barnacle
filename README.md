@@ -2,7 +2,7 @@
 This paper explores the TCP/IP protocol suite, focusing on TCP's three-way handshake that establishes a reliable connection. The handshake—SYN, SYN-ACK, and ACK—synchronizes devices for data transfer. Understanding this process and TCP/IP’s layered structure is essential for analyzing network communication and reliability.
 
 
-![image alt]()
+![image alt](Picture1.png)
 
 Overview:
  This repository contains research materials, documentation, and code samples related to the Transmission Control Protocol (TCP) and the TCP/IP protocol suite. The focus is on understanding how TCP establishes reliable, ordered, and error-checked communication through its three-way handshake process, and how TCP fits within the layered architecture of the TCP/IP model that powers modern network communication.
@@ -11,6 +11,7 @@ Key Concepts:
  TCP Three-Way Handshake: This fundamental mechanism involves three steps—SYN, SYN-ACK, and ACK packets—that synchronize both communicating devices before initiating data transfer. It ensures connection reliability by agreeing on initial sequence numbers and communication parameters.
 
 TCP/IP Protocol Suite: A comprehensive set of protocols that govern network communications, where TCP provides connection-oriented, reliable data transmission atop the Internet Protocol (IP), which handles routing and addressing of packets across diverse networks.
+
 
 Purpose:
  The repository serves as a resource for researchers, students, and network engineers aiming to deepen their understanding of:
